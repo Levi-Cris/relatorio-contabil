@@ -1,4 +1,4 @@
-<h1>WAF - Laboratório no VirtualBox</h1>
+##<h1>WAF - Laboratório no VirtualBox</h1>
 
 <h2>Descrição</h2>
 O projeto consiste em simular um firewall que seria acessado na
@@ -34,35 +34,4 @@ testar a vulnerabilidade
 
 <h2>Andamento da Aplicação:</h2>
 
-<p align="center">
-Ambiente emulado no VirtualBox: <br/>
-<img src="https://i.imgur.com/4p7fuQz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Firewall com Regras Nativas do Servidor:  <br/>
-<img src="https://i.imgur.com/0SBegvs.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Regras da INTRANET: <br/>
-<img src="https://i.imgur.com/C8q94KR.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Regras da DMZ:  <br/>
-<img src="https://i.imgur.com/kpCo6Om.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Snort utilizado para regrar:  <br/>
-<img src="https://i.imgur.com/XFAJmJs.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Graylog realizando o registro de logs do servidor:  <br/>
-<img src="https://i.imgur.com/qPNxPsB.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Aplicação hospedada no servidor pronta para serem realizado os ataques:  <br/>
-<img src="https://i.imgur.com/9GeQ5yl.png"/>
-<br />
-<br />
-Máquinas prontas e emuladas para cenário fícticio de ataque:  <br/>
-<img src="https://i.imgur.com/YCePYaR.jpg"/>
-</p>
+</p>##
