@@ -22,6 +22,10 @@ Vendas por produtos: <br/>
 <img src="https://i.imgur.com/aAyoPvY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Faturamento por Produto:  <br/>
+<img src="https://i.imgur.com/GxJTLaI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Faturamento por Filial:  <br/>
 <img src="https://i.imgur.com/VWV3azj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
