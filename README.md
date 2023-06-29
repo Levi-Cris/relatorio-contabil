@@ -5,7 +5,7 @@ Aplicação desenvolvida com o objetivo de analisar dados de vendas e faturament
 <br />
 
 
-<h2>Linguagens e Biblioteca utilizados:</h2>
+<h2>Linguagens e Bibliotecas utilizados:</h2>
 
 - <b>Python3 v3.11</b>
 - <b>Pandas</b> 
