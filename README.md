@@ -16,7 +16,7 @@ Aplicação desenvolvida com o objetivo de analisar dados de vendas e faturament
 - <b>Windows 11</b>
 - <b>Pycharm Communit 2023.1.2</b>
 
-<h2>Andamento da Aplicação:</h2>
+<h2>Resultados:</h2>
 
 <p align="center">
 Ambiente emulado no VirtualBox: <br/>
