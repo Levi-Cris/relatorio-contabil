@@ -4,7 +4,6 @@
 Aplicação desenvolvida com o objetivo de analisar dados de vendas e faturamento de determinados produtos e serviços. Através de planilhas com dados financeiros, desenvolvi uma aplicação que faz a leitura de lojas, produtos vendidos, ticket médio e faturamento, construindo um relatório contábil com infográficos.
 <br />
 
-
 <h2>Linguagens e Bibliotecas utilizados:</h2>
 
 - <b>Python3 v3.11</b>
